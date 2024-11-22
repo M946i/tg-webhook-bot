@@ -3,3 +3,5 @@
 ## 2.In [https://dash.cloudflare.com/profile/api-tokens] Create a Workers AI token
 
 ## 3.Get http://yourworkersname.workers.dev/configure-webhook
+
+## 4.Send /start to your bot
